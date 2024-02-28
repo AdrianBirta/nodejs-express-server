@@ -1,3 +1,28 @@
 20240227	14:02:54	3f863e1e-1a3e-4444-86dd-5aeefd93d459	/new-page	GET
 20240227	14:02:54	00c1749c-a5fc-403f-9997-756c1d9024db	/css/style.css	GET
 20240227	14:02:54	2e2adb55-b68e-4b2a-9543-0b67669b6439	/img/img1.jpg	GET
+20240228	08:30:19	5d8b597b-cd9a-4366-a2f8-02bafc88f8a9	GET	undefined	/
+20240228	08:30:19	f97cd98d-315f-4309-9a8c-f58d5551c910	GET	undefined	/css/style.css
+20240228	08:32:25	9e3ed08e-b5a7-4025-9239-6f3328f68e02	GET	undefined	/
+20240228	08:32:25	607d1400-4c1e-4145-8e35-aeec54ed53ee	GET	undefined	/css/style.css
+20240228	08:35:26	8ee5148a-01bd-4bdb-9363-19952be4f30a	OPTIONS	https://www.google.com	/
+20240228	08:35:26	d4667432-bb6f-488e-9bcc-ceff6fb18610	GET	https://www.google.com	/
+20240228	08:39:49	ed97e47a-d9a4-4c65-840c-fe61b409dcf4	OPTIONS	https://www.google.com	/
+20240228	08:39:49	bb14dc6e-d1b8-472d-b5d1-2d69113b8d6f	GET	https://www.google.com	/
+20240228	08:45:35	d5b9bb1d-1800-4c1c-81ae-816ed6a3c5dd	OPTIONS	https://www.google.com	/
+20240228	08:45:35	67cbb247-978f-4a78-850c-017999e1b4c6	GET	https://www.google.com	/
+20240228	08:45:50	36acd87c-f6d6-4ffb-9fb9-6b6d9ddf3343	OPTIONS	https://www.google.com	/
+20240228	08:45:50	53c5713f-75df-4316-bf8f-33bc38a9bcd0	GET	https://www.google.com	/
+20240228	08:48:54	6edb2b8f-5e68-4630-b583-b232f6a145ca	GET	undefined	/
+20240228	08:49:41	cfc222cd-5141-4fa0-b717-f4381ef09cc2	GET	undefined	/
+20240228	08:49:42	40c37717-ae31-445e-b5d1-3782389ab312	GET	undefined	/css/style.css
+20240228	08:55:05	e26faad2-4548-4ffe-ab13-cc5a4479b10c	GET	undefined	/
+20240228	08:55:52	62d13403-7168-46e2-8bbd-b42718f5a4ae	GET	undefined	/
+20240228	08:55:52	048aea57-1553-4e55-82c1-a5d35414e3e2	GET	undefined	/css/style.css
+20240228	08:57:02	c4d86162-d997-4a81-a6b4-1139d927ac46	GET	undefined	/
+20240228	08:57:03	26048024-85f7-4550-b9f1-be8f4ba2bd41	GET	undefined	/css/style.css
+20240228	08:57:09	cf9436db-bbe3-4527-8914-7e9bf0d2089a	GET	undefined	/adi
+20240228	08:57:09	7e85917c-ef29-44f0-9b78-a867746bb931	GET	undefined	/css/style.css
+20240228	09:00:01	95c98b84-6d16-4b4b-ace7-99668e21435b	GET	undefined	/adi
+20240228	09:00:01	15fd43ff-1416-4a86-8135-9bbe8fc9d80b	GET	undefined	/css/style.css
+20240228	09:00:47	a753a95c-aecf-4dc9-bf16-39e189ddfa9a	GET	undefined	/adi
