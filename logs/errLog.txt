@@ -7,3 +7,6 @@
 20240228	14:18:37	8713b83d-5ed4-444f-bfdf-ce411c35e787	ReferenceError: req is not defined
 20240228	14:21:30	3db322e5-afd2-45d5-8175-05ebf7b225de	ReferenceError: req is not defined
 20240229	15:28:02	ca47f940-e5e2-40c8-88a2-b0ba8330eef2	SyntaxError: Expected double-quoted property name in JSON at position 19
+20240229	17:27:08	9e9577d9-9ab5-4f8e-b889-339baf5618da	ReferenceError: cookie is not defined
+20240229	17:27:39	058aa6ce-0135-4bfd-aed9-c8e3b7429750	ReferenceError: cookie is not defined
+20240229	17:28:47	75f17742-1bbd-437f-9a3f-04187a39aa02	ReferenceError: cookie is not defined
