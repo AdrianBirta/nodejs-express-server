@@ -172,3 +172,5 @@
 20240301	10:50:33	ae9d1521-5dcc-48e4-8903-427ec3974353	DELETE	undefined	/employees
 20240301	10:51:26	6fcdfd97-7b3c-493c-9962-2698c6c2e336	POST	undefined	/auth
 20240301	10:51:40	6a5be007-f754-4627-9318-2efb7c25231a	DELETE	undefined	/employees
+20240301	13:39:34	7de3d59e-b776-4d52-a4dd-064ab55fe540	POST	undefined	/register
+20240301	13:40:17	36a01797-07cc-48ef-8995-8f88fa9c44d0	POST	undefined	/register
