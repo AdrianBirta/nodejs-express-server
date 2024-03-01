@@ -42,7 +42,7 @@ const handleLogin = async (req, res) => {
     res.cookie('jwt', refreshToken, {
       httpOnly: true,
       sameSite: 'None',
-      // secure: true, // Refresh token - Won't work with Thunder Client | Required with Chrome
+      secure: true, // Refresh token - Won't work with Thunder Client | Required with Chrome
       maxAge: 24 * 60 * 60 * 1000,
     }); // maxAge: 1 day
     res.json({ accessToken });
